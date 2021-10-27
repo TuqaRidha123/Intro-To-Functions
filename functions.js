@@ -126,3 +126,4 @@ function returnDay(num){
                   returnDay(7) --> "Sunday"
                   returnDay(4) --> "Thursday"
                   returnDay(0) --> null
+*/
